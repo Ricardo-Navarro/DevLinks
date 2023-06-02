@@ -179,8 +179,8 @@ footer {
 @keyframes slide-back {
     from {
         left: 50%;
+    }
 }
-}
-to {
+    to {
         left: 0;
 }
